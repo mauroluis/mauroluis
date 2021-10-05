@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning VueJS, ReactJS, TDD
 - 📫 My email is luisvargas.tbd@gmail.com
 - 😄 Pronouns: him/they
-- - ⚡ Fun fact: Mauro likes to drink mate while coding
+- ⚡ Fun fact: Mauro likes to drink mate while coding
 
 <!--
 **mauroluis/mauroluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
