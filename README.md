@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m mauro
+- 👀 I’m working at Globant 
+- 🌱 I’m currently learning VueJS, ReactJS, TDD
+- 📫 My email is luisvargas.tbd@gmail.com
+- 😄 Pronouns: him/they
+- - ⚡ Fun fact: Mauro likes to drink mate while coding
+
 <!--
 **mauroluis/mauroluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
