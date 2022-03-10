@@ -4,7 +4,7 @@
 - 👀 I’m working at Globant 
 - 🌱 I’m currently learning VueJS, ReactJS, TDD
 - 📫 My email is luisvargas.tbd@gmail.com
-- 🧉 Fun fact: Mauro likes to drink mate while coding
+- 🧉 Fun fact: Mauro likes to drink tereré while coding
 - 😄 Pronouns: him/they
 
 
