@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m mauro
 - 👀 I’m working at Globant 
-- 🌱 I’m currently learning VueJS, ReactJS, TDD
+- 🌱 I’m currently learning VueJS, ReactJS, TDD, React Native
 - 📫 My email is luisvargas.tbd@gmail.com
 - 🧉 Fun fact: Mauro likes to drink tereré while coding
 - 😄 Pronouns: him/they
